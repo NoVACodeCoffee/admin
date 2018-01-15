@@ -26,7 +26,10 @@ Sponsor beverages for our bi-weekly meetup!  Beverage sponsorship is roughly *$1
   
 ## Venue Sponsor
 
-Provide us a space for up to 100 participants, and be OK with food and drinks. If you need an attendee list for security, we'll send the RSVP the afternoon of the MeetUp
+Provide us a space for up to 100 participants, and be OK with food and drinks. If you need an attendee list for security, we'll send the RSVP the afternoon of the MeetUp.
+
+## Meetup Page Dues Sponsor
+Approximately $180/year. Easy as pie to sponsor this one. Your logo included on the Meetup Sponsors page.
 
 ## Logistics
 
